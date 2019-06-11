@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.edu.ifsp.fuelprice.MainActivity">
+
+    <item
+        android:id="@+id/action_image"
+        android:icon="@mipmap/ic_launcher_foreground"
+        android:layout_height="wrap_content"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        tools:ignore="MenuTitle" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="200"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+
+</menu>

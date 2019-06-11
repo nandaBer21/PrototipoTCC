@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FuelPrice</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_logar">Logar</string>
+    <string name="action_add_login">Add login</string>
+
+    <string name="label_login">Login: </string>
+    <string name="label_senha">Senha: </string>
+
+    <string name="button_ok">OK</string>
+    <string name="button_cadastrar">Cadastrar</string>
+    <string name="title_activity_novo_cadastro">NovoCadastro</string>
+    <string name="title_activity_cad_veiculo">CadVeiculo</string>
+    <string name="title_activity_cad_posto">CadPosto</string>
+    <string name="title_activity_cad_preco">CadPreco</string>
+    <string name="title_activity_tela_inicial">TelaInicial</string>
+    <string name="title_activity_historico">historico</string>
+
+</resources>
