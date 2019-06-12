@@ -43,8 +43,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void addLogin(View v){
-        Intent intent  = new Intent(this, CadUsuario.class);
-        startActivity(intent);
+        Navigation navigation = new Navigation();
+        navigation.addLogin(this);
         //TODO: Configurar para abrir sem o botão de tela inicial e outros acessos
     }
     public void Logar(View v){

@@ -93,7 +93,7 @@ public class CadHistorico extends AppCompatActivity {
     }
 
     public void toHome(View v){
-        Intent intent = new Intent(this, TelaInicial.class);
-        startActivity(intent);
+        Navigation navigation = new Navigation();
+        navigation.toHome(this);
     }
 }

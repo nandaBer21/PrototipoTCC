@@ -19,8 +19,8 @@ public class CadVeiculo extends AppCompatActivity {
     }
 
     public void toHome(View v){
-        Intent intent = new Intent(this, TelaInicial.class);
-        startActivity(intent);
+        Navigation navigation = new Navigation();
+        navigation.toHome(this);
     }
     //TODO: Fazer override onPause e onResume
 }
