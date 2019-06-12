@@ -18,15 +18,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-
-        FloatingActionButton fab = findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-            }
-        });
     }
 
     @Override
@@ -54,9 +45,11 @@ public class MainActivity extends AppCompatActivity {
     public void addLogin(View v){
         Intent intent  = new Intent(this, CadUsuario.class);
         startActivity(intent);
+        //TODO: Configurar para abrir sem o botão de tela inicial e outros acessos
     }
     public void Logar(View v){
-        // Metodo para logar
+        //TODO: Fazer o Metodo para logar
         // verificar o banco e validar login
     }
+    //TODO: Fazer override onPause e onResume
 }

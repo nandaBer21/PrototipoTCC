@@ -16,15 +16,6 @@ public class CadUsuario extends AppCompatActivity {
         setContentView(R.layout.activity_cad_usuario);
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-
-        FloatingActionButton fab = findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
-            }
-        });
     }
 
     public void toHome(View v){
@@ -36,4 +27,5 @@ public class CadUsuario extends AppCompatActivity {
         Intent intent = new Intent(this, CadVeiculo.class);
         startActivity(intent);
     }
+    //TODO: Fazer override onPause e onResume
 }
