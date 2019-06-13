@@ -19,22 +19,22 @@ public class TelaInicial extends AppCompatActivity {
     }
 
     public void addUsuario(View v){
-        Intent intent = new Intent(this, CadUsuario.class);
-        startActivity(intent);
+        Navigation navigation = new Navigation();
+        navigation.addUsuario(this);
     }
 
     public void addVeiculo(View v){
-        Intent intent = new Intent(this, CadVeiculo.class);
-        startActivity(intent);
+        Navigation navigation = new Navigation();
+        navigation.addVeiculo(this);
     }
 
     public void addPosto(View v){
-        Intent intent = new Intent(this, CadPosto.class);
-        startActivity(intent);
+        Navigation navigation = new Navigation();
+        navigation.addPosto(this);
     }
 
     public void toHistoric(View v){
-        Intent intent = new Intent(this, CadHistorico.class);
-        startActivity(intent);
+        Navigation navigation = new Navigation();
+        navigation.toHistoric(this);
     }
 }
