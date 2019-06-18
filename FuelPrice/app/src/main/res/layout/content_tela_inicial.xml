@@ -21,7 +21,7 @@
             android:layout_marginEnd="30dp"
             android:layout_weight="1"
             android:onClick="addUsuario"
-            android:text="Cadastro Usuário" />
+            android:text="@string/button_cadusuario" />
 
     </TableRow>
 
@@ -38,7 +38,7 @@
             android:layout_marginEnd="30dp"
             android:layout_weight="1"
             android:onClick="addVeiculo"
-            android:text="Cadastro Veículo" />
+            android:text="@string/button_cadveiculo" />
     </TableRow>
 
     <TableRow
@@ -54,7 +54,7 @@
             android:layout_marginEnd="30dp"
             android:layout_weight="1"
             android:onClick="addPosto"
-            android:text="Cadastro Posto" />
+            android:text="@string/button_cadposto" />
 
     </TableRow>
 
@@ -71,7 +71,7 @@
             android:layout_marginEnd="30dp"
             android:layout_weight="1"
             android:onClick="toHistoric"
-            android:text="Histórico de Abastecimento" />
+            android:text="@string/button_cadhistorico" />
     </TableRow>
 
 </TableLayout>

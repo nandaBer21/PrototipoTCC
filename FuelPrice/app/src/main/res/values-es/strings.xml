@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FuelNow</string>
+    <string name="action_logar">Log</string>
+    <string name="action_add_login">Agregar login</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="button_cadastrar">Registro</string>
+    <string name="button_ok">OK</string>
+    <string name="label_login">Login:</string>
+    <string name="label_senha">Contraseña:</string>
+    <string name="title_activity_tela_inicial">Inicio</string>
+    <string name="title_activity_novo_cadastro">Nuevo registro</string>
+    <string name="title_activity_historico">Historia de Abastecimiento</string>
+    <string name="title_activity_cad_veiculo">Registro de Vehículos</string>
+    <string name="title_activity_cad_preco">Registro de Precios</string>
+    <string name="title_activity_cad_posto">Registro de Puestos de Combustible</string>
+    <string name="button_cadhistorico">Historia de Abastecimiento</string>
+    <string name="button_cadposto">Registro de Puestos de Combustible</string>
+    <string name="button_cadveiculo">Registro de Vehículos</string>
+    <string name="button_cadusuario">Registro de Usuario</string>
+</resources>

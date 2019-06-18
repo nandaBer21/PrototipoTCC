@@ -161,7 +161,6 @@
             android:layout_marginStart="20dp"
             android:layout_marginTop="30dp"
             android:layout_marginEnd="20dp"
-            android:layout_weight="0.5"
             android:text="Incluir" />
 
         <Button
@@ -171,7 +170,6 @@
             android:layout_marginStart="20dp"
             android:layout_marginTop="30dp"
             android:layout_marginEnd="20dp"
-            android:layout_weight="0.5"
             android:text="Atualizar" />
 
     </TableRow>
@@ -187,9 +185,8 @@
             android:layout_marginStart="20dp"
             android:layout_marginTop="30dp"
             android:layout_marginEnd="20dp"
-            android:layout_weight="0.5"
             android:onClick="toHome"
-            android:text="Tela Inicial" />
+            android:text="@string/title_activity_tela_inicial" />
 
         <Button
             android:id="@+id/button8"
@@ -198,7 +195,6 @@
             android:layout_marginStart="20dp"
             android:layout_marginTop="30dp"
             android:layout_marginEnd="20dp"
-            android:layout_weight="0.5"
-            android:text="Ver Histórico" />
+            android:text="@string/button_cadhistorico" />
     </TableRow>
 </TableLayout>

@@ -1,20 +1,24 @@
 <resources>
-    <string name="app_name">FuelPrice</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">FuelNow</string>
 
     <string name="action_logar">Logar</string>
-    <string name="action_add_login">Add login</string>
+    <string name="action_add_login">Adicionar login</string>
 
     <string name="label_login">Login: </string>
     <string name="label_senha">Senha: </string>
 
     <string name="button_ok">OK</string>
-    <string name="button_cadastrar">Cadastrar</string>
-    <string name="title_activity_novo_cadastro">NovoCadastro</string>
-    <string name="title_activity_cad_veiculo">CadVeiculo</string>
-    <string name="title_activity_cad_posto">CadPosto</string>
-    <string name="title_activity_cad_preco">CadPreco</string>
-    <string name="title_activity_tela_inicial">TelaInicial</string>
-    <string name="title_activity_historico">historico</string>
+    <string name="button_cadastrar">Cadastre-se</string>
+    <string name="button_cadusuario">Cadastro de Usuário</string>
+    <string name="button_cadveiculo">Cadastro de Veículo</string>
+    <string name="button_cadposto">Cadastro de Posto de Combustível</string>
+    <string name="button_cadhistorico">Histórico de Abastecimento</string>
+    <string name="title_activity_novo_cadastro">Novo Cadastro</string>
+    <string name="title_activity_cad_veiculo">Cadastro de Veiculos</string>
+    <string name="title_activity_cad_posto">Cadastro de Postos de Combustível</string>
+    <string name="title_activity_cad_preco">Cadastro de Preços</string>
+    <string name="title_activity_tela_inicial">Tela Inicial</string>
+    <string name="title_activity_historico">Histórico de Abastecimento</string>
+    <string name="action_settings">Definições</string>
 
 </resources>
