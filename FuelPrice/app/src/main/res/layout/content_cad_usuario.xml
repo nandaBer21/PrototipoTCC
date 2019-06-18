@@ -116,7 +116,7 @@
             android:text="Telefone" />
 
         <EditText
-            android:id="@+id/editText4"
+            android:id="@+id/etTelefone"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
