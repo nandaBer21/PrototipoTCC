@@ -18,4 +18,6 @@
     <string name="button_cadposto">Fuel Station Registration</string>
     <string name="button_cadveiculo">Vehicle Registration</string>
     <string name="button_cadusuario">User registration</string>
+    <string name="button_map">Google Map</string>
+    <string name="title_activity_map_local_postos">Map</string>
 </resources>

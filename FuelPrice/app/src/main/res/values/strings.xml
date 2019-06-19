@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FuelNow</string>
+    <string name="app_name">Fuel Now</string>
 
     <string name="action_logar">Logar</string>
     <string name="action_add_login">Adicionar login</string>
@@ -13,6 +13,7 @@
     <string name="button_cadveiculo">Cadastro de Veículo</string>
     <string name="button_cadposto">Cadastro de Posto de Combustível</string>
     <string name="button_cadhistorico">Histórico de Abastecimento</string>
+    <string name="button_map">Google Map</string>
     <string name="title_activity_novo_cadastro">Novo Cadastro</string>
     <string name="title_activity_cad_veiculo">Cadastro de Veiculos</string>
     <string name="title_activity_cad_posto">Cadastro de Postos de Combustível</string>
@@ -20,5 +21,6 @@
     <string name="title_activity_tela_inicial">Tela Inicial</string>
     <string name="title_activity_historico">Histórico de Abastecimento</string>
     <string name="action_settings">Definições</string>
+    <string name="title_activity_map_local_postos">Mapa</string>
 
 </resources>

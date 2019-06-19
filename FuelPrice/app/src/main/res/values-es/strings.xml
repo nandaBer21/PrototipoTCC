@@ -18,4 +18,6 @@
     <string name="button_cadposto">Registro de Puestos de Combustible</string>
     <string name="button_cadveiculo">Registro de Vehículos</string>
     <string name="button_cadusuario">Registro de Usuario</string>
+    <string name="button_map">Google Map</string>
+    <string name="title_activity_map_local_postos">Mapa</string>
 </resources>

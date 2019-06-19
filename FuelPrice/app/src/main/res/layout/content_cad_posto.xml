@@ -67,17 +67,18 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="20dp"
             android:layout_marginTop="10dp"
-            android:text="Local" />
+            android:text="Localização" />
 
-        <EditText
-            android:id="@+id/etLocal"
+        <Button
+            android:id="@+id/btMap"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginStart="10dp"
-            android:layout_marginTop="5dp"
-            android:layout_marginEnd="20dp"
-            android:ems="10"
-            android:inputType="textPersonName" />
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="30dp"
+            android:layout_weight="0.5"
+            android:text="@string/button_map" />
+
     </TableRow>
 
     <TableRow
