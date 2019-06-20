@@ -3,7 +3,10 @@ package br.edu.ifsp.fuelprice;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.graphics.Bitmap;
 import android.os.Bundle;
+import android.provider.MediaStore;
+import android.support.annotation.Nullable;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
@@ -12,8 +15,12 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.EditText;
+import android.widget.ImageView;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
+
+    public static final int RC_CAMARA_FOTO = 1;
 
     public static final String PREF_NAME =
             "br.edu.ifsp.fuelprice.PREF_NAME";
@@ -102,5 +109,43 @@ public class MainActivity extends AppCompatActivity {
     public void Logar(View v){
         //TODO: Fazer o Metodo para logar
         // verificar o banco e validar login
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode,
+                                    @Nullable Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+
+        if(resultCode == RESULT_OK){
+            switch (requestCode){
+
+                case RC_CAMARA_FOTO:
+                    Bundle extras = data.getExtras();
+                    Bitmap imageBitmap = (Bitmap) extras.get("data");
+
+                    ImageView imageViewPic = findViewById(R.id.imageViewPic);
+                    imageViewPic.setImageBitmap(imageBitmap);
+
+                    break;
+
+                default:
+                    break;
+            }
+        }
+    }
+
+    public void takePicture(View v){
+
+        //TODO: Se for Android >= 6. (API 23) , devemos pedir permissão.
+
+        Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
+        if(intent.resolveActivity(getPackageManager()) != null){
+            startActivityForResult(intent, RC_CAMARA_FOTO);
+        }
+        else{
+            Toast.makeText(this,
+                    "Não existe recurso de CAMERA para captura da foto!",
+                    Toast.LENGTH_LONG).show();
+        }
     }
 }

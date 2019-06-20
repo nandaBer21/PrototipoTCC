@@ -4,16 +4,26 @@
     tools:context="br.edu.ifsp.fuelprice.MainActivity">
 
     <item
-        android:id="@+id/action_image"
-        android:icon="@mipmap/ic_launcher_foreground"
-        android:layout_height="wrap_content"
+        android:id="@+id/action_whatsapp"
+        android:icon="@drawable/ic_action_whatsapp"
         android:orderInCategory="100"
+        android:title="@string/action_whatsapp"
+        android:titleCondensed="@string/action_cond_whatsapp"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_image"
+        android:icon="@mipmap/ic_launcher_foreground_GoogleMaps"
+        android:layout_height="wrap_content"
+        android:orderInCategory="200"
         app:showAsAction="always"
         tools:ignore="MenuTitle" />
 
+
+
     <item
         android:id="@+id/action_settings"
-        android:orderInCategory="200"
+        android:orderInCategory="300"
         android:title="@string/action_settings"
         app:showAsAction="never" />
 

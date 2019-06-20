@@ -20,4 +20,11 @@
     <string name="button_cadusuario">User registration</string>
     <string name="button_map">Google Map</string>
     <string name="title_activity_map_local_postos">Map</string>
+    <string name="action_whatsapp">WhatsApp</string>
+    <string name="action_cond_whatsapp">Whats</string>
+    <string name="action_gmaps">Google Maps</string>
+    <string name="action_search">Search</string>
+    <string name="btn_pic">Photograph</string>
+    <string name="title_activity_selecao_postos">Choose a Fuel Station</string>
+    <string name="desc">Take your picture!</string>
 </resources>

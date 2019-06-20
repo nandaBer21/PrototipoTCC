@@ -21,6 +21,12 @@ public class Navigation {
         activity.startActivity(intent);
     }
 
+    public void toGoogleMaps(Activity activity){
+        Intent intent = new Intent(activity, mapa.class);
+        activity.startActivity(intent);
+    }
+
+
     public void addVeiculo(Activity activity){
         Intent intent = new Intent(activity, CadVeiculo.class);
         activity.startActivity(intent);

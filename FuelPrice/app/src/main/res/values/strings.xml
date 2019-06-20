@@ -4,14 +4,22 @@
     <string name="action_logar">Logar</string>
     <string name="action_add_login">Adicionar login</string>
 
+    <string name="desc">Tire a sua foto!</string>
+    <string name="btn_pic">Foto</string>
+
     <string name="label_login">Login: </string>
     <string name="label_senha">Senha: </string>
+
+    <string name="action_whatsapp">WhatsApp</string>
+    <string name="action_cond_whatsapp">Whats</string>
+    <string name="action_search">Pesquisar</string>
+    <string name="action_gmaps">Google Maps</string>
 
     <string name="button_ok">OK</string>
     <string name="button_cadastrar">Cadastre-se</string>
     <string name="button_cadusuario">Cadastro de Usuário</string>
     <string name="button_cadveiculo">Cadastro de Veículo</string>
-    <string name="button_cadposto">Cadastro de Posto de Combustível</string>
+    <string name="button_cadposto">Cadastro de Postos</string>
     <string name="button_cadhistorico">Histórico de Abastecimento</string>
     <string name="button_map">Google Map</string>
     <string name="title_activity_novo_cadastro">Novo Cadastro</string>
@@ -22,5 +30,6 @@
     <string name="title_activity_historico">Histórico de Abastecimento</string>
     <string name="action_settings">Definições</string>
     <string name="title_activity_map_local_postos">Mapa</string>
+    <string name="title_activity_selecao_postos">Escolha um Posto de Combustível</string>
 
 </resources>

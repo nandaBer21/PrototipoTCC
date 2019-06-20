@@ -74,9 +74,6 @@ public class CadPosto extends AppCompatActivity {
         String endereco = etEndereco.getText().toString();
         editor.putString(KEY_ENDERECO, endereco);
 
-        etLocal = findViewById(R.id.etLocal);
-        String local = etLocal.getText().toString();
-        editor.putString(KEY_LOCAL, local);
 
         etData = findViewById(R.id.etData);
         String data = etData.getText().toString();
@@ -113,10 +110,6 @@ public class CadPosto extends AppCompatActivity {
         etEndereco = findViewById(R.id.etEndereco);
         etEndereco.setText(endereco);
 
-        String local = preferences.getString
-                (KEY_LOCAL, "");
-        etLocal = findViewById(R.id.etLocal);
-        etLocal.setText(local);
 
         String data = preferences.getString
                 (KEY_DATA, "");
@@ -143,4 +136,11 @@ public class CadPosto extends AppCompatActivity {
         Navigation navigation = new Navigation();
         navigation.toHome(this);
     }
+
+    public void toGoogleMaps(View v){
+        Navigation navigation = new Navigation();
+        navigation.toGoogleMaps(this);
+    }
+
+
 }
