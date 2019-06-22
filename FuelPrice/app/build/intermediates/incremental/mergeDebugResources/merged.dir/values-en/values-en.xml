@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_add_login">Add login</string>
+    <string name="action_cond_whatsapp">Whats</string>
+    <string name="action_gmaps">Google Maps</string>
+    <string name="action_logar">Log into</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_whatsapp">WhatsApp</string>
+    <string name="app_name">FuelNow</string>
+    <string name="btn_pic">Photograph</string>
+    <string name="button_cadastrar">To register</string>
+    <string name="button_cadhistorico">History of Supply</string>
+    <string name="button_cadposto">Fuel Station Registration</string>
+    <string name="button_cadusuario">User registration</string>
+    <string name="button_cadveiculo">Vehicle Registration</string>
+    <string name="button_map">Google Map</string>
+    <string name="button_ok">OK</string>
+    <string name="desc">Take your picture!</string>
+    <string name="label_login">Login:</string>
+    <string name="label_senha">Password:</string>
+    <string name="title_activity_cad_posto">Fuel Station Registration</string>
+    <string name="title_activity_cad_preco">Price Registration</string>
+    <string name="title_activity_cad_veiculo">Vehicle Registration</string>
+    <string name="title_activity_historico">History of Supply</string>
+    <string name="title_activity_map_local_postos">Map</string>
+    <string name="title_activity_novo_cadastro">New register</string>
+    <string name="title_activity_selecao_postos">Choose a Fuel Station</string>
+    <string name="title_activity_tela_inicial">Home screen</string>
+</resources>

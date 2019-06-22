@@ -1,332 +1,342 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:2:1-79:12
-INJECTED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:2:1-79:12
-INJECTED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:2:1-79:12
-INJECTED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:2:1-79:12
-MERGED from [com.android.support:design:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\d0b7fe0613f99fa52692c6a47c5c3d09\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\bde4a38986c47a50aae0a18e207aa4c6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\9aad060c1112d5850850513b06ec8340\AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\c2a8332bb9ea4bfc0aa1514b24f0b4d7\AndroidManifest.xml:17:1-38:12
-MERGED from [com.google.android.gms:play-services-base:16.0.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\9178a79ac9f7f23c4849b12cb7e6c9e3\AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\dbf80d91469d2c7e2b8ffc997c50aa3f\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\1e5965a4c067c55457d7af4d18718986\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\271a4b2f06935c02647e448a5aec69b1\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\8b9a06d9e7d5c0b749f72ec266b00739\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\6a1e2337503483e7b62b30eddeebe953\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\aa7418ca4dc37ce8b521ec3f4fde17db\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\385283318bcfc1eb843665536aa8c987\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\434d4ec3b9d77244b89da586dd5ad6b4\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\f9c144af0e2e5ad9c86d6e9a714e8099\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\4f207af2102360a6791b71e8682bfa7c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\1b96530d1928c02ccd00c47aa45904ad\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\a415c79e15f0edadf8091e185bb6969a\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\041b226b250711b0172c072b84bf3950\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\caa794bebfb86fcddf5f63c56df7af66\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\f050a0c1cbfe0f293be75f9d7596cacd\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\49107d7a5918a4790f1c9b5c60b9117f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\e7eb6d2ada842d8fe6d8634d9bbc1e8a\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\7308226bcf9f39009a8dffd1da0c3678\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:26.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\43ffe290cd54eee0d842e5e7aac5049f\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\f86a777bbd9afc6639b510f01f7cf16d\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\1000a9a7cd8867b6a742a7f856231d44\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\0b19fa44d3ec579916b7e35d7a71bee5\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\f7a2b01a1843edccb8ecc2deb31721f7\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\99c4c8f71ac31dc2bbc00faddc9675f6\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\9af2caa8bee137252843fcfebdf75fad\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\66b50d14c66d08d112d843cf803224ac\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\80e851629dd6b544d33372206a75c460\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\48b6eec35c5158f61249548cc7817baf\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\21c937115b9f53ca3036ffe35fd6efb2\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\181d870ff8c57d43158db41756b93dac\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\fd4b6f6860a0c1d90deca4aebd9cbd87\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\55b519863f19f6b7fbe984a0d2d93fda\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:2:1-79:12
-INJECTED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:2:1-79:12
-INJECTED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:2:1-79:12
+ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:2:1-84:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\aae39caefc6876fa6294d4b8d8c33043\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\304c887f7049c8bd23462c8611cbc27d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\96bbf8d766fcb57d1d7cee906a9d2472\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5cfbf744ce32e78f2d0c56161eed409c\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\010fecf4a03d94ffe25e1075551c118f\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\8d21a6b98ca871026fe871864fd88df7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b3e118c028b63bc917919ec107aee26a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\30ce5b3f071efedd3ec9e35a3d2af911\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\4ae00514c512900e46670a52673b195a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\fbe40413b30920f102cc2d85fe54c695\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c9c43dd9425590dd0a0d3cbaf4abe0de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\597f474e2c058dca487c2a2399ba1859\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\30261d193826bbf72a93942a5a12febb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\d6cb0b223a18a2538f9f65721b735033\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\290a8dbc1115a763731b806d0b465d86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b0e60157471982ad3b2514950fb8c040\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\6f6661edbb8f40943156e3a6769cbfb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\fc01ae2b4961b158316bdc631602a117\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\8eb112690c7544fc6168b0624c5aa18e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\fa711ba8cab52be06aa495440dfe56a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\3b1ed52a0c5131a4879145aacd0e3db8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59167aa5ff49730e5fc1c5a404086a57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\f454927977c54d139c2c040b11d33ab6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\d9b3d8f2eb5cedf40b3f12ff63f0d4c5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\fc03335bf8f38d2274b01facd14ef8b4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\9aae11525a021b5e7669638a1af98839\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\7c35b47c41b7ca3cc3bb06b2ead6c37a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\8edab060a3fd229809d923f8735e9f18\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\8c1f12d30b8c24a4e2d2003d72afd427\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\d1644204c906d7e228b234f31900e521\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\d9e9169c83c1a28cc1e598c77ed30e85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\be68828cef0403fcd696c47dbba72c3d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\95bb7e7fe6859e1698b1c929af4a59bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\9df0501c04bfe107022802b2a6f76d13\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\62d791a802650df7808fbd933cf8a650\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5f44719b395a6a1ac134f44a93242bc8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\55236b6aca0ef969cde19fd9b4060e30\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:2:1-84:12
 	package
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:3:5-36
-		INJECTED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml
-		INJECTED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:2:1-79:12
-		INJECTED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:2:1-84:12
+		INJECTED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:2:1-79:12
-		INJECTED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:2:1-84:12
+		INJECTED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:9:5-79
+ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:9:22-76
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:9:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:10:5-81
+ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:10:5-81
 	android:name
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:10:22-78
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:10:22-78
 uses-permission#android.permission.INTERNET
-ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:11:5-67
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\c2a8332bb9ea4bfc0aa1514b24f0b4d7\AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\c2a8332bb9ea4bfc0aa1514b24f0b4d7\AndroidManifest.xml:24:5-67
+ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5cfbf744ce32e78f2d0c56161eed409c\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5cfbf744ce32e78f2d0c56161eed409c\AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:11:22-64
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:11:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:12:5-79
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\c2a8332bb9ea4bfc0aa1514b24f0b4d7\AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\c2a8332bb9ea4bfc0aa1514b24f0b4d7\AndroidManifest.xml:23:5-79
+ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5cfbf744ce32e78f2d0c56161eed409c\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5cfbf744ce32e78f2d0c56161eed409c\AndroidManifest.xml:23:5-79
 	android:name
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:12:22-76
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:14:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:16:5-17:36
+	android:required
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:16:19-57
 application
-ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:14:5-77:19
-MERGED from [com.android.support:design:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\d0b7fe0613f99fa52692c6a47c5c3d09\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\d0b7fe0613f99fa52692c6a47c5c3d09\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\9aad060c1112d5850850513b06ec8340\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\9aad060c1112d5850850513b06ec8340\AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\c2a8332bb9ea4bfc0aa1514b24f0b4d7\AndroidManifest.xml:30:5-36:19
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\c2a8332bb9ea4bfc0aa1514b24f0b4d7\AndroidManifest.xml:30:5-36:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\9178a79ac9f7f23c4849b12cb7e6c9e3\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\9178a79ac9f7f23c4849b12cb7e6c9e3\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\dbf80d91469d2c7e2b8ffc997c50aa3f\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\dbf80d91469d2c7e2b8ffc997c50aa3f\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\1e5965a4c067c55457d7af4d18718986\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\1e5965a4c067c55457d7af4d18718986\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\271a4b2f06935c02647e448a5aec69b1\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\271a4b2f06935c02647e448a5aec69b1\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\43ffe290cd54eee0d842e5e7aac5049f\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\43ffe290cd54eee0d842e5e7aac5049f\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\f86a777bbd9afc6639b510f01f7cf16d\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\f86a777bbd9afc6639b510f01f7cf16d\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\1000a9a7cd8867b6a742a7f856231d44\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\1000a9a7cd8867b6a742a7f856231d44\AndroidManifest.xml:22:5-23:19
+ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:19:5-82:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\aae39caefc6876fa6294d4b8d8c33043\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\aae39caefc6876fa6294d4b8d8c33043\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\96bbf8d766fcb57d1d7cee906a9d2472\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\96bbf8d766fcb57d1d7cee906a9d2472\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5cfbf744ce32e78f2d0c56161eed409c\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5cfbf744ce32e78f2d0c56161eed409c\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\010fecf4a03d94ffe25e1075551c118f\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\010fecf4a03d94ffe25e1075551c118f\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\8d21a6b98ca871026fe871864fd88df7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\8d21a6b98ca871026fe871864fd88df7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b3e118c028b63bc917919ec107aee26a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b3e118c028b63bc917919ec107aee26a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\30ce5b3f071efedd3ec9e35a3d2af911\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\30ce5b3f071efedd3ec9e35a3d2af911\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\d9b3d8f2eb5cedf40b3f12ff63f0d4c5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\d9b3d8f2eb5cedf40b3f12ff63f0d4c5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\fc03335bf8f38d2274b01facd14ef8b4\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\fc03335bf8f38d2274b01facd14ef8b4\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\9aae11525a021b5e7669638a1af98839\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\9aae11525a021b5e7669638a1af98839\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\f86a777bbd9afc6639b510f01f7cf16d\AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\fc03335bf8f38d2274b01facd14ef8b4\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:19:9-35
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:24:9-35
 	android:label
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:17:9-27
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:22:9-27
 	android:roundIcon
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:18:9-54
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:23:9-54
 	android:icon
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:16:9-43
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:21:9-43
 	android:allowBackup
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:20:9-35
 	android:theme
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:20:9-40
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:25:9-40
 activity#br.edu.ifsp.fuelprice.SelecaoPostos
-ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:21:9-24:68
+ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:26:9-29:68
 	android:label
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:23:13-66
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:28:13-66
 	android:theme
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:24:13-56
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:29:13-56
 	android:name
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:22:13-42
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:27:13-42
 meta-data#com.google.android.geo.API_KEY
-ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:33:9-35:55
+ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:38:9-40:55
 	android:value
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:35:13-52
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:40:13-52
 	android:name
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:34:13-58
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:39:13-58
 activity#br.edu.ifsp.fuelprice.mapa
-ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:37:9-39:59
+ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:42:9-44:59
 	android:label
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:39:13-56
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:44:13-56
 	android:name
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:38:13-33
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:43:13-33
 activity#br.edu.ifsp.fuelprice.Map_localPostos
-ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:40:9-42:71
+ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:45:9-47:71
 	android:label
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:42:13-68
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:47:13-68
 	android:name
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:41:13-44
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:46:13-44
 activity#br.edu.ifsp.fuelprice.CadHistorico
-ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:43:9-46:59
+ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:48:9-51:59
 	android:label
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:45:13-61
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:50:13-61
 	android:theme
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:46:13-56
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:51:13-56
 	android:name
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:44:13-41
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:49:13-41
 activity#br.edu.ifsp.fuelprice.TelaInicial
-ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:47:9-50:59
+ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:52:9-55:59
 	android:label
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:49:13-64
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:54:13-64
 	android:theme
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:50:13-56
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:55:13-56
 	android:name
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:48:13-40
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:53:13-40
 activity#br.edu.ifsp.fuelprice.CadPreco
-ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:51:9-54:59
+ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:56:9-59:59
 	android:label
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:53:13-61
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:58:13-61
 	android:theme
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:54:13-56
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:59:13-56
 	android:name
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:52:13-37
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:57:13-37
 activity#br.edu.ifsp.fuelprice.CadPosto
-ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:55:9-58:59
+ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:60:9-63:59
 	android:label
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:57:13-61
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:62:13-61
 	android:theme
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:58:13-56
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:63:13-56
 	android:name
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:56:13-37
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:61:13-37
 activity#br.edu.ifsp.fuelprice.CadVeiculo
-ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:59:9-62:59
+ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:64:9-67:59
 	android:label
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:61:13-63
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:66:13-63
 	android:theme
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:62:13-56
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:67:13-56
 	android:name
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:60:13-39
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:65:13-39
 activity#br.edu.ifsp.fuelprice.CadUsuario
-ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:63:9-66:59
+ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:68:9-71:59
 	android:label
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:65:13-65
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:70:13-65
 	android:theme
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:66:13-56
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:71:13-56
 	android:name
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:64:13-39
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:69:13-39
 activity#br.edu.ifsp.fuelprice.MainActivity
-ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:67:9-76:20
+ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:72:9-81:20
 	android:label
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:69:13-45
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:74:13-45
 	android:theme
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:70:13-56
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:75:13-56
 	android:name
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:68:13-41
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:73:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:71:13-75:29
+ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:76:13-80:29
 action#android.intent.action.MAIN
-ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:72:17-69
+ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:77:17-69
 	android:name
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:72:25-66
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:77:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:74:17-77
+ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:79:17-77
 	android:name
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml:74:27-74
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml:79:27-74
 uses-sdk
-INJECTED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml
-INJECTED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\d0b7fe0613f99fa52692c6a47c5c3d09\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\d0b7fe0613f99fa52692c6a47c5c3d09\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\bde4a38986c47a50aae0a18e207aa4c6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\bde4a38986c47a50aae0a18e207aa4c6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\9aad060c1112d5850850513b06ec8340\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\9aad060c1112d5850850513b06ec8340\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\c2a8332bb9ea4bfc0aa1514b24f0b4d7\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-maps:16.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\c2a8332bb9ea4bfc0aa1514b24f0b4d7\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\9178a79ac9f7f23c4849b12cb7e6c9e3\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\9178a79ac9f7f23c4849b12cb7e6c9e3\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\dbf80d91469d2c7e2b8ffc997c50aa3f\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\dbf80d91469d2c7e2b8ffc997c50aa3f\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\1e5965a4c067c55457d7af4d18718986\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\1e5965a4c067c55457d7af4d18718986\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\271a4b2f06935c02647e448a5aec69b1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\271a4b2f06935c02647e448a5aec69b1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\8b9a06d9e7d5c0b749f72ec266b00739\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\8b9a06d9e7d5c0b749f72ec266b00739\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\6a1e2337503483e7b62b30eddeebe953\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\6a1e2337503483e7b62b30eddeebe953\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\aa7418ca4dc37ce8b521ec3f4fde17db\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\aa7418ca4dc37ce8b521ec3f4fde17db\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\385283318bcfc1eb843665536aa8c987\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\385283318bcfc1eb843665536aa8c987\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\434d4ec3b9d77244b89da586dd5ad6b4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\434d4ec3b9d77244b89da586dd5ad6b4\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\f9c144af0e2e5ad9c86d6e9a714e8099\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\f9c144af0e2e5ad9c86d6e9a714e8099\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\4f207af2102360a6791b71e8682bfa7c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\4f207af2102360a6791b71e8682bfa7c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\1b96530d1928c02ccd00c47aa45904ad\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\1b96530d1928c02ccd00c47aa45904ad\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\a415c79e15f0edadf8091e185bb6969a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\a415c79e15f0edadf8091e185bb6969a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\041b226b250711b0172c072b84bf3950\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\041b226b250711b0172c072b84bf3950\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\caa794bebfb86fcddf5f63c56df7af66\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\caa794bebfb86fcddf5f63c56df7af66\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\f050a0c1cbfe0f293be75f9d7596cacd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\f050a0c1cbfe0f293be75f9d7596cacd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\49107d7a5918a4790f1c9b5c60b9117f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\49107d7a5918a4790f1c9b5c60b9117f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\e7eb6d2ada842d8fe6d8634d9bbc1e8a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\e7eb6d2ada842d8fe6d8634d9bbc1e8a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\7308226bcf9f39009a8dffd1da0c3678\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\7308226bcf9f39009a8dffd1da0c3678\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:26.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\43ffe290cd54eee0d842e5e7aac5049f\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\43ffe290cd54eee0d842e5e7aac5049f\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-compat:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\f86a777bbd9afc6639b510f01f7cf16d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\f86a777bbd9afc6639b510f01f7cf16d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\1000a9a7cd8867b6a742a7f856231d44\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\1000a9a7cd8867b6a742a7f856231d44\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\0b19fa44d3ec579916b7e35d7a71bee5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\0b19fa44d3ec579916b7e35d7a71bee5\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\f7a2b01a1843edccb8ecc2deb31721f7\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\f7a2b01a1843edccb8ecc2deb31721f7\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\99c4c8f71ac31dc2bbc00faddc9675f6\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\99c4c8f71ac31dc2bbc00faddc9675f6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\9af2caa8bee137252843fcfebdf75fad\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\9af2caa8bee137252843fcfebdf75fad\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\66b50d14c66d08d112d843cf803224ac\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\66b50d14c66d08d112d843cf803224ac\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\80e851629dd6b544d33372206a75c460\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\80e851629dd6b544d33372206a75c460\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\48b6eec35c5158f61249548cc7817baf\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\48b6eec35c5158f61249548cc7817baf\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\21c937115b9f53ca3036ffe35fd6efb2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\21c937115b9f53ca3036ffe35fd6efb2\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\181d870ff8c57d43158db41756b93dac\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\181d870ff8c57d43158db41756b93dac\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\fd4b6f6860a0c1d90deca4aebd9cbd87\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\fd4b6f6860a0c1d90deca4aebd9cbd87\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\55b519863f19f6b7fbe984a0d2d93fda\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\55b519863f19f6b7fbe984a0d2d93fda\AndroidManifest.xml:20:5-44
-INJECTED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml
-INJECTED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\aae39caefc6876fa6294d4b8d8c33043\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\aae39caefc6876fa6294d4b8d8c33043\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\304c887f7049c8bd23462c8611cbc27d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\304c887f7049c8bd23462c8611cbc27d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\96bbf8d766fcb57d1d7cee906a9d2472\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\96bbf8d766fcb57d1d7cee906a9d2472\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5cfbf744ce32e78f2d0c56161eed409c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5cfbf744ce32e78f2d0c56161eed409c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\010fecf4a03d94ffe25e1075551c118f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\010fecf4a03d94ffe25e1075551c118f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\8d21a6b98ca871026fe871864fd88df7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\8d21a6b98ca871026fe871864fd88df7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b3e118c028b63bc917919ec107aee26a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b3e118c028b63bc917919ec107aee26a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\30ce5b3f071efedd3ec9e35a3d2af911\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\30ce5b3f071efedd3ec9e35a3d2af911\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\4ae00514c512900e46670a52673b195a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\4ae00514c512900e46670a52673b195a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\fbe40413b30920f102cc2d85fe54c695\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\fbe40413b30920f102cc2d85fe54c695\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c9c43dd9425590dd0a0d3cbaf4abe0de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\c9c43dd9425590dd0a0d3cbaf4abe0de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\597f474e2c058dca487c2a2399ba1859\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\597f474e2c058dca487c2a2399ba1859\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\30261d193826bbf72a93942a5a12febb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\30261d193826bbf72a93942a5a12febb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\d6cb0b223a18a2538f9f65721b735033\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\d6cb0b223a18a2538f9f65721b735033\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\290a8dbc1115a763731b806d0b465d86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\290a8dbc1115a763731b806d0b465d86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b0e60157471982ad3b2514950fb8c040\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b0e60157471982ad3b2514950fb8c040\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\6f6661edbb8f40943156e3a6769cbfb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\6f6661edbb8f40943156e3a6769cbfb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\fc01ae2b4961b158316bdc631602a117\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\fc01ae2b4961b158316bdc631602a117\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\8eb112690c7544fc6168b0624c5aa18e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\8eb112690c7544fc6168b0624c5aa18e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\fa711ba8cab52be06aa495440dfe56a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\fa711ba8cab52be06aa495440dfe56a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\3b1ed52a0c5131a4879145aacd0e3db8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\3b1ed52a0c5131a4879145aacd0e3db8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59167aa5ff49730e5fc1c5a404086a57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\59167aa5ff49730e5fc1c5a404086a57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\f454927977c54d139c2c040b11d33ab6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\f454927977c54d139c2c040b11d33ab6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\d9b3d8f2eb5cedf40b3f12ff63f0d4c5\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\d9b3d8f2eb5cedf40b3f12ff63f0d4c5\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\fc03335bf8f38d2274b01facd14ef8b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\fc03335bf8f38d2274b01facd14ef8b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\9aae11525a021b5e7669638a1af98839\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\9aae11525a021b5e7669638a1af98839\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\7c35b47c41b7ca3cc3bb06b2ead6c37a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\7c35b47c41b7ca3cc3bb06b2ead6c37a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\8edab060a3fd229809d923f8735e9f18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\8edab060a3fd229809d923f8735e9f18\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\8c1f12d30b8c24a4e2d2003d72afd427\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\8c1f12d30b8c24a4e2d2003d72afd427\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\d1644204c906d7e228b234f31900e521\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\d1644204c906d7e228b234f31900e521\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\d9e9169c83c1a28cc1e598c77ed30e85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\d9e9169c83c1a28cc1e598c77ed30e85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\be68828cef0403fcd696c47dbba72c3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\be68828cef0403fcd696c47dbba72c3d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\95bb7e7fe6859e1698b1c929af4a59bc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\95bb7e7fe6859e1698b1c929af4a59bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\9df0501c04bfe107022802b2a6f76d13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\9df0501c04bfe107022802b2a6f76d13\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\62d791a802650df7808fbd933cf8a650\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\62d791a802650df7808fbd933cf8a650\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5f44719b395a6a1ac134f44a93242bc8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5f44719b395a6a1ac134f44a93242bc8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\55236b6aca0ef969cde19fd9b4060e30\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\55236b6aca0ef969cde19fd9b4060e30\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:26.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\271a4b2f06935c02647e448a5aec69b1\AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\30ce5b3f071efedd3ec9e35a3d2af911\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		INJECTED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml
-		INJECTED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml
-		ADDED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml
-		INJECTED from D:\GitHub_TCC\PrototipoTCC\FuelPrice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Usuario\AndroidStudioProjects\Prot-tipo-TCC\FuelPrice\app\src\main\AndroidManifest.xml
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:16.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\c2a8332bb9ea4bfc0aa1514b24f0b4d7\AndroidManifest.xml:26:5-28:35
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5cfbf744ce32e78f2d0c56161eed409c\AndroidManifest.xml:26:5-28:35
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\c2a8332bb9ea4bfc0aa1514b24f0b4d7\AndroidManifest.xml:27:9-41
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5cfbf744ce32e78f2d0c56161eed409c\AndroidManifest.xml:27:9-41
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\c2a8332bb9ea4bfc0aa1514b24f0b4d7\AndroidManifest.xml:28:9-32
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5cfbf744ce32e78f2d0c56161eed409c\AndroidManifest.xml:28:9-32
 uses-library#org.apache.http.legacy
-ADDED from [com.google.android.gms:play-services-maps:16.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\c2a8332bb9ea4bfc0aa1514b24f0b4d7\AndroidManifest.xml:33:9-35:40
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5cfbf744ce32e78f2d0c56161eed409c\AndroidManifest.xml:33:9-35:40
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\c2a8332bb9ea4bfc0aa1514b24f0b4d7\AndroidManifest.xml:35:13-37
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5cfbf744ce32e78f2d0c56161eed409c\AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-maps:16.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\c2a8332bb9ea4bfc0aa1514b24f0b4d7\AndroidManifest.xml:34:13-50
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\5cfbf744ce32e78f2d0c56161eed409c\AndroidManifest.xml:34:13-50
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:16.0.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\9178a79ac9f7f23c4849b12cb7e6c9e3\AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\010fecf4a03d94ffe25e1075551c118f\AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\9178a79ac9f7f23c4849b12cb7e6c9e3\AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\010fecf4a03d94ffe25e1075551c118f\AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\9178a79ac9f7f23c4849b12cb7e6c9e3\AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\010fecf4a03d94ffe25e1075551c118f\AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\9178a79ac9f7f23c4849b12cb7e6c9e3\AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\010fecf4a03d94ffe25e1075551c118f\AndroidManifest.xml:24:13-79
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:16.0.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\1e5965a4c067c55457d7af4d18718986\AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b3e118c028b63bc917919ec107aee26a\AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\1e5965a4c067c55457d7af4d18718986\AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b3e118c028b63bc917919ec107aee26a\AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\1e5965a4c067c55457d7af4d18718986\AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\b3e118c028b63bc917919ec107aee26a\AndroidManifest.xml:24:13-58
 meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v4:26.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\271a4b2f06935c02647e448a5aec69b1\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\43ffe290cd54eee0d842e5e7aac5049f\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\43ffe290cd54eee0d842e5e7aac5049f\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\30ce5b3f071efedd3ec9e35a3d2af911\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\d9b3d8f2eb5cedf40b3f12ff63f0d4c5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\d9b3d8f2eb5cedf40b3f12ff63f0d4c5\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:support-v4:26.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\271a4b2f06935c02647e448a5aec69b1\AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\30ce5b3f071efedd3ec9e35a3d2af911\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:support-v4:26.1.0] D:\User\Fernanda\.gradle\caches\transforms-2\files-2.1\271a4b2f06935c02647e448a5aec69b1\AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Usuario\.gradle\caches\transforms-2\files-2.1\30ce5b3f071efedd3ec9e35a3d2af911\AndroidManifest.xml:27:13-51

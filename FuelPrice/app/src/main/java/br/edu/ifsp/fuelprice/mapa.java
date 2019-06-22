@@ -129,7 +129,7 @@ public class mapa extends FragmentActivity implements OnMapReadyCallback {
         //                BitmapDescriptorFactory.HUE_ORANGE));
 
 
-        mo.icon(bitmapDescriptorFactoryFromVector(this, R.mipmap.ic_launcher_foreground_Logo));
+        mo.icon(bitmapDescriptorFactoryFromVector(this, R.mipmap.ic_launcher_foreground_logo));
 
         Marker marcador = mMap.addMarker(mo);
         marcador.showInfoWindow();

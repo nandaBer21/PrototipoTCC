@@ -13,7 +13,7 @@
 
     <item
         android:id="@+id/action_image"
-        android:icon="@mipmap/ic_launcher_foreground_GoogleMaps"
+        android:icon="@mipmap/ic_launcher_foreground_googlemaps"
         android:layout_height="wrap_content"
         android:orderInCategory="200"
         app:showAsAction="always"
