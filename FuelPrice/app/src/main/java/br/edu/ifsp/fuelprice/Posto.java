@@ -1,5 +1,8 @@
 package br.edu.ifsp.fuelprice;
 
+import android.app.Activity;
+import android.content.Intent;
+
 public class Posto {
 
     public static final String POSTO_ID = "br.edu.ifsp.fuelprice.POSTO_ID";
@@ -87,5 +90,16 @@ public class Posto {
 
     public void setPrecoDisel(float precoDisel) {
         this.precoDisel = precoDisel;
+    }
+
+    public void enviarWhatsApp(Activity activity){
+        Intent intent = new Intent();
+        intent.setAction(Intent.ACTION_SEND);
+        intent.putExtra(Intent.EXTRA_TEXT,"O posto "+ nomePosto + " esta vendendo etanol a "
+                + precoEtanol + ", gasolina a " + precoGasolina + " e diesel a " + precoDisel + ".");
+        intent.setType("text/plain");
+        intent.setPackage("com.whatsapp");
+
+        if (intent.resolveActivity(activity.getPackageManager()) != null) activity.startActivity(intent);
     }
 }
